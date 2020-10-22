@@ -1,0 +1,10 @@
+@charset "utf-8";
+/*火焰效果*/
+.black{background:#000;color:#fff;}
+#Flame{font:bold 100px/1.5 arial,sans-serif;
+	text-shadow:0 0 5px #fff,0 0 20px #fefcc9,
+	10px -10px 30px #feec85,-20px -20px 40px #ffae34,
+	20px -40px 50px #ec760c,-20px -60px 60px #cd4606,
+	0 -80px 70px #973716,10px -90px 80px #451b0e;}
+/*超链接取消下划线*/
+a:link{text-decoration: none;}
